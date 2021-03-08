@@ -1,0 +1,150 @@
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+
+}
+
+h1{
+  margin: 50px auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+}
+
+h2{
+  line-height: 2;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3{
+  line-height: 3;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr{
+  clear: both;
+  border-style: none;
+  border-top: 15px dotted #EAF6F6;
+  width: 20%;
+  margin: 100px auto;
+}
+
+p{
+  color: #40514E;
+  font-weight: bold;
+}
+
+
+/* **********************Class styles*********************** */
+
+.top-container{
+  padding-top: 80px;
+  background: #EAF6F6;
+}
+
+
+.top-cloud{
+  position: absolute;
+  left: 60%;
+  top: 3%;
+}
+
+.subtitle{
+  font-weight: normal;
+}
+
+
+.dunes{
+  width: 100%;
+  margin-top: 100px;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left: 30%;
+  top: 40%;
+}
+
+.profile{
+  width: 50%;
+  margin: 100px auto;
+}
+
+.profile-pic{
+  height: 200px;
+  padding: 40px;
+}
+
+.skills{
+  margin: 100px auto;
+}
+
+.skill-row{
+  clear: both;
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2
+}
+
+.skill-image-1{
+  width: 25%;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  float: left;
+}
+
+
+.skill-image-2{
+  width: 25%;
+  margin-left: 30px;
+  margin-bottom: 30px;
+  float: right;
+}
+
+.contact-me{
+  margin: 100px auto;
+  width: 50%;
+}
+
+.btn{
+  margin-top: 50px;
+  background-image: linear-gradient(#66BFBF, #11999e);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 7px;
+}
+
+.bottom-container{
+  background: #66BFBF;
+  padding: 50px;
+}
+
+
+.copyright{
+  color: #EAF6F6;
+  font-weight: normal;
+  font-size: 0.8rem;
+  padding: 20px 20px;
+}
